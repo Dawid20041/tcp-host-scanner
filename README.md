@@ -30,7 +30,7 @@ Designed as a practical networking and automation project with a focus on:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tcp-host-scanner.git
+git clone https://github.com/Dawid20041/tcp-host-scanner.git
 cd tcp-host-scanner
 ```
 
@@ -156,5 +156,6 @@ This project was built as part of hands-on practice in:
 
 
 ## 📜 License
+
 
 MIT License
