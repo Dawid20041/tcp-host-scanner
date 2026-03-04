@@ -1,0 +1,6 @@
+8.8.8.8:53
+google.com:80
+wp.pl:443
+localhost:22
+wp.pl:443
+wp.pl:abc
